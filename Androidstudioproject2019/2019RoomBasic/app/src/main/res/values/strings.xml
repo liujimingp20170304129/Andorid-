@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">2019RoomBasic</string>
+    <string name="btn_insert">Insert</string>
+    <string name="btn_update">Update</string>
+    <string name="btn_clear">Clear</string>
+    <string name="btn_delete">Delete</string>
+</resources>

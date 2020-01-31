@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">AndroidBaic2019</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="textview">Welcome</string>
+    <string name="btn_add1">+1</string>
+    <string name="btn_add2">+2</string>
+    <string name="livedata_textview">TextView</string>
+    <string name="imageButtonDescrption">Descrption</string>
+    <string name="viewlivedata">ViewModelLiveData</string>
+    <string name="viewmodel">ViewModel</string>
+    <string name="navigation">Navigation界面切换</string>
+
+    <string name="tv_hello">你好吖！</string>
+    <string name="btn_left">左</string>
+    <string name="btn_right">右</string>
+    <string name="tv_switch">开关</string>
+    <string name="tv_open">开</string>
+    <string name="tv_off">关</string>
+    <string name="btn_enter">确定</string>
+    <string name="ed_text">请输入数值</string>
+    <string name="rdbtn_happ">微笑</string>
+    <string name="radbtn_bad">伤心</string>
+    <string name="imagview">happy</string>
+    <string name="ch_box01">语文</string>
+    <string name="ch_box02">数学</string>
+    <string name="ch_box03">英语</string>
+    <string name="btn_insert">Insert</string>
+    <string name="btn_updata">Updata</string>
+    <string name="btn_clear">Clear</string>
+    <string name="btn_delete">Delete</string>
+
+</resources>
